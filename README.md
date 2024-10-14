@@ -1,0 +1,1 @@
+# k8s-eks-2048-deployment
